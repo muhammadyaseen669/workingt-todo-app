@@ -1,0 +1,45 @@
+.heading{
+    text-align: center;
+    font-family: Georgia;
+    color:black;
+}
+body{
+ 
+   
+    background-color: rgba(13, 13, 228, 0.5);
+}
+.all-items{
+    text-align: center;
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+}
+.btn1 , .btn2{
+    color: black;
+    border-radius: 10px;
+    display: inline-flexbox;
+}
+.abcd{
+    background-color:black;
+    background: rgba(200, 230, 255, 0.5);
+}
+.btn3{
+    display: inline-flex
+    text-align: justify;
+    margin-left: 5px;  
+    margin-right: 5px;
+    color: red;
+    border-radius: 10px;
+}
+.aa{
+    text-align: center;
+    color:black;
+    list-style: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.input{
+    border-radius: 10px;
+    background-color: gainsboro;
+
+}
